@@ -8,10 +8,10 @@
 
 <hr>
 
-* **GitHub Desktop**
+## GitHub Desktop
 
-  * [Download](https://desktop.github.com/) do GitHub Desktop.
-  * [Documentação](https://docs.github.com/pt/desktop) do GitHub Desktop.
+* [Download](https://desktop.github.com/) do GitHub Desktop.
+* [Documentação](https://docs.github.com/pt/desktop) do GitHub Desktop.
 
 <hr>
 
